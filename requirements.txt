@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+pystyle
+colorama
+ctypes
+requests
