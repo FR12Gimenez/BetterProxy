@@ -7,4 +7,5 @@
 ```txt
 pip install -r requirements.txt
 ```
+- Go to the sources folder, and put raw links of sources in a source text file so that it can scrape proxies.
 - Voila! You are done, you can now run `checker.py` or `scraper.py`
