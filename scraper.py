@@ -99,7 +99,7 @@ async def main():
     else:
         print(f'{Fore.RED} [~] Invalid choice. Please choose a number between 1 and 3.')
 
-    time.sleep(5)  # Add a delay to allow asynchronous tasks to complete
+    time.sleep(5)
     os.system('cls' if os.name == 'nt' else 'clear')
     return await main()
 
